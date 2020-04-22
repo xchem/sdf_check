@@ -1,7 +1,8 @@
 # Installation
 __Requires:__ Conda, python 3.6.  
     
-To install, clone this repo, and then install of the conda things with `conda env create --file environment.yml`
+To install, clone this repo, and then install of the conda things with `conda env create --file environment.yml`. Activate the environment with `source activate sdf_check`.    
+    
 There is a jupyter notebook in this repo that will help you get started (instructions also repeated below):    
 
 # Validating your sdf file for submission
