@@ -242,7 +242,4 @@ def validate(sdf_file):
         validated = False
     
     return validate_dict, validated
-
-# d, v = validate('compound-set_fragmenstein.sdf')
-# print(d, v)    
     
